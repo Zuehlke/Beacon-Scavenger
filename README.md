@@ -1,2 +1,2 @@
-# Beacon-Scavenger
-Beacon Scavenger
+# ZRS Angular Workshop
+ZRS Angular Workshop
